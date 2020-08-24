@@ -1,0 +1,202 @@
+{
+  "categorias": [
+    {
+      "titulo": "Game Of Thrones",
+      "link": "https://www.youtube.com/watch?v=wgZ9235NeH8&list=PLkQ1HWydujXZ_apvjqxTu2R8muOO6qPPv&index=7",
+      "cor": "#038C3E",
+      "link_extra": {
+        "text": "Mehores vídeos sobre uma das melhores séries medievais",
+        "url": "https://www.youtube.com/watch?v=wgZ9235NeH8&list=PLkQ1HWydujXZ_apvjqxTu2R8muOO6qPPv&index=7"
+      },
+      "videos": [
+        {
+          "titulo": "Tudo sobre Game Of Thrones, Futebol Feminino no Brasil, Investimentos, Séries que todos deveriam maratonar e Programação",
+          "url": "https://www.youtube.com/watch?v=wgZ9235NeH8&list=PLkQ1HWydujXZ_apvjqxTu2R8muOO6qPPv&index=7"
+        },
+        {
+          "titulo": "O Final verdadeiro de GOT",
+          "url": "https://www.youtube.com/watch?v=yqgAEa4wjzc&list=PLkQ1HWydujXZ_apvjqxTu2R8muOO6qPPv&index=9"
+        },
+        {
+          "titulo": "Tudo Sobre a Família Stark",
+          "url": "https://www.youtube.com/watch?v=PaK-TNzmNzs&list=PLkQ1HWydujXbBephJ45XjSRnjekYVCx3w&index=1"
+        },
+        {
+          "titulo": "Família Lannister",
+          "url": "https://www.youtube.com/watch?v=XOGBQCMNyHI&list=PLkQ1HWydujXbBephJ45XjSRnjekYVCx3w&index=5"
+           },
+        {
+          "titulo": "Tudo Sobre a Família Baratheon",
+          "url": "https://www.youtube.com/watch?v=xyxNDmH2_xI&list=PLkQ1HWydujXbBephJ45XjSRnjekYVCx3w&index=3"
+        },
+        {
+          "titulo": "Tudo Sobre as Famílias Tully e Baelish",
+          "url": "https://www.youtube.com/watch?v=-kxNzJBgIss&list=PLkQ1HWydujXbBephJ45XjSRnjekYVCx3w&index=10"
+        },
+        {
+          "titulo": "Familia Mormont",
+          "url": "https://www.youtube.com/watch?v=mmQDgoSzilI&list=PLkQ1HWydujXbBephJ45XjSRnjekYVCx3w&index=16"
+        },
+        {
+          "titulo": "Família Targaryen",
+          "url": "https://www.youtube.com/watch?v=m4iJfiBou6I&list=PLkQ1HWydujXbBephJ45XjSRnjekYVCx3w&index=11"
+        }        
+      ]
+    },
+    {
+      "titulo": "Futebol Feminino no Brasil",
+      "cor": "#7069B8",
+      "link_extra": {
+        "text": "Melhores vídeos sobre o Futebol Feminino no Brasil"
+      },
+      "videos": [
+        {
+          "titulo": "Futebol Feminino, uma história invisível",
+          "url": "https://www.youtube.com/watch?v=2KIYy9G_uRg&feature=emb_title"
+        },
+        {
+          "titulo": "Como começou o futebol feminino no Brasil ?",
+          "url": "https://www.youtube.com/watch?v=MjS2hwPIySA&feature=emb_title"
+        },
+        {
+          "titulo": "Mulheres em Campo",
+          "url": "https://www.youtube.com/watch?v=fogRfwI3jgo&feature=emb_title"
+        },
+        {
+          "titulo": "Minas do Futebol",
+          "url": "https://www.youtube.com/watch?v=9gNsVlNFXRU&feature=emb_title"
+        }, 
+        {
+          "titulo": "O Futebol Feminino Além do Campo",
+          "url": "https://www.youtube.com/watch?v=u2YdLD7iZz8&feature=emb_title"
+        }
+      ]
+    },
+    {
+      "titulo": "Melhores Séries",
+      "cor": "#AD580E",
+      "link_extra": {
+        "text": "Top 5 melhores séries na minha humilde opinião"
+      },
+      "videos": [
+        {
+          "titulo": "Breaking Bad",
+          "url": "https://www.youtube.com/watch?v=2-W6_6gJda0"
+        },
+        {
+          "titulo": "Dark",
+          "url": "https://www.youtube.com/watch?v=MSXxmcdJClc&t=5s"
+        },
+        {
+          "titulo": "Stranger Things",
+          "url": "https://www.youtube.com/watch?v=b9EkMc79ZSU"
+        },
+        {
+          "titulo": "Game of Thrones",
+          "url": "https://www.youtube.com/watch?v=gcTkNV5Vg1E"
+        },
+        {
+          "titulo": "House Of Cards",
+          "url": "https://www.youtube.com/watch?v=SvSkxBYuoQY"
+        }
+      ]
+    },
+    {
+      "titulo": "Investimentos",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Vídeos introdutórios sbre investimentos"
+      },
+      "videos": [
+        {
+          "titulo": "O que é SELIC e CDI?",
+          "url": "https://www.youtube.com/watch?v=R0AQyTIvcvI"
+        },
+        {
+          "titulo": "3 investimentos para iniciantes em bolsa de valores",
+          "url": "https://www.youtube.com/watch?v=-sGOvusS5NI"
+        },
+        {
+          "titulo": "Como escolher o melhor fundo imobiliário na bolsa de valores",
+          "url": "https://www.youtube.com/watch?v=VUwU9wt2s7w"
+        },
+        {
+          "titulo": "Fundos de Investimento em Ações",
+          "url": "https://www.youtube.com/watch?v=Pc6ZK5M2D2c"
+        },
+        {
+          "titulo": "Debêntres que enriquecem",
+          "url": "https://www.youtube.com/watch?v=uCq8k50l4Ek"
+        }
+      ]
+    },
+    {
+      "titulo": "Ted Talks",
+      "cor": "red",
+      "link_extra": {
+        "text": " Melhores Ted Talks",
+        "url": "https://www.youtube.com/watch?v=DOvhcI0BNhM"
+      },
+      "videos": [
+        {
+          "titulo": "O que é necessário para ter sucesso e determinação?",
+          "url": "https://www.youtube.com/watch?v=FVcPQ8qJL3M"
+        },
+        {
+          "titulo": "Para inpicio de conversa",
+          "url": "https://www.youtube.com/watch?v=3qzcPcQjbMI&t=181s"
+        },
+        {
+          "titulo": "O poder da Vulnerabilidade",
+          "url": "https://www.youtube.com/watch?v=yPY7uF5Yle8"
+        },
+        {
+          "titulo": "O poder do não e do dinheiro",
+          "url": "https://www.youtube.com/watch?v=hxEaB-a4KGg"
+        },
+        {
+          "titulo": "Como aprender melhor",
+          "url": "https://www.youtube.com/watch?v=AEGkaRNzQEw"
+        }
+      ]
+    },
+    {
+      "titulo": "Programação",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Melhores vídeos sobre programação",
+        "url": "https://www.youtube.com/watch?v=oUPaJxk6TZ0&t=3101s"
+      },
+      "videos": [
+        {
+          "titulo": "Guia definitivo para aprender",
+          "url": "https://www.youtube.com/watch?v=oUPaJxk6TZ0&t=3101s"
+        },
+        {
+          "titulo": "Back-end para iniciantes",
+          "url": "https://www.youtube.com/watch?v=Qjk-cSW-jk4"
+        },
+        {
+          "titulo": "3 livros que fizeram eu não desistir da programação",
+          "url": "https://www.youtube.com/watch?v=Uh0Kn2aXEqY"
+        },
+        {
+          "titulo": "Do estudo a prática",
+          "url": "https://www.youtube.com/watch?v=Cac9mQcPdfQ"
+        },
+        {
+          "titulo": "Entendendo Devops",
+          "url": "https://www.youtube.com/watch?v=mcwnQVAn0pw"
+        },
+        {
+          "titulo": "A história do Front-End",
+          "url": "https://www.youtube.com/watch?v=VKmPGmFY7H4"
+        },
+        {
+          "titulo": "Entendendo Git",
+          "url": "https://www.youtube.com/watch?v=6Czd1Yetaac"
+        }
+      ]
+    }
+  ]
+}
